@@ -1,0 +1,29 @@
+header, nav{
+display: block;
+}
+
+body {
+text-align: center;
+margin: 0px;
+padding: 0px;
+}
+
+#cabecera {
+background: #05476d;
+padding: 15px;
+font: bold 20px verdana, sans-serif;
+color: #ffffff;
+}
+
+#menu {
+background: #9fbc45;
+padding: 5px 15px;
+}
+
+#menu li {
+display: inline-block;
+list-style: none;
+padding: 10px;
+font: bold 14px verdana, sans-serif;
+color: #000000;
+} 
